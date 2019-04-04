@@ -20,6 +20,36 @@ cnn compression for keras
 - https://github.com/walkerning/compression-tool
 A small compression tool for caffe model using svd and prune.
 
+## TensorRT
+- https://github.com/LitLeo/TensorRT_Tutorial
+tensorrt tutorial
+- https://github.com/dusty-nv/jetson-inference
+Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. 
+- https://github.com/NVIDIA/tensorrt-laboratory
+Explore the Capabilities of the TensorRT Platform
+- https://github.com/lewes6369/tensorRTWrapper
+a wrapper for tensorRT net (parser caffe)
+- https://github.com/lewes6369/TensorRT-Yolov3
+TensorRT for Yolov3 
+- https://github.com/eric612/TensorRT-Yolov3
+TensorRT for Yolov3 
+- https://github.com/eric612/TensorRT-Yolov3-models
+Deploy model was trained from mobilenet-yolov3
+- https://github.com/TLESORT/YOLO-TensorRT-GIE-
+an implementation of a trained YOLO neural network used with the TensorRT framework. 
+- https://github.com/Ghustwb/MobileNet-SSD-TensorRT
+Accelerate mobileNet-ssd with tensorRT
+- https://github.com/chenzhi1992/TensorRT-SSD
+Use TensorRT API to implement Caffe-SSD， SSD（channel pruning）， Mobilenet-SSD 
+- https://github.com/PKUZHOU/MTCNN_FaceDetection_TensorRT
+MTCNN C++ implementation with NVIDIA TensorRT Inference accelerator SDK 
+- https://github.com/tensorlayer/openpose-plus
+High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT
+- https://github.com/csvance/keras-tensorrt-jetson
+Example of loading a Keras model into TensorRT C++ API 
+https://github.com/zhaozhixu/SqueezeDetTRT
+SqueezeDet implemented in CUDA&TensorRT 
+
 ## Codes
 - https://github.com/chengshengchan/model_compression
 Implementation of model compression with three knowledge distilling or teacher student methods. The basic architecture is teacher-student model.
