@@ -1,12 +1,14 @@
 # ModelCompression
 
-- Resources
+## Resources
 - https://github.com/sun254/awesome-model-compression-and-acceleration
 a list of awesome papers on deep model ompression and acceleration
 - https://github.com/memoiry/Awesome-model-compression-and-acceleration
 a list of awesome papers on deep model ompression and acceleration
 - https://github.com/ZhishengWang/Embedded-Neural-Network
 collection of works aiming at reducing model sizes or the ASIC/FPGA accelerator for machine learning 
+- https://github.com/Ewenwan/MVision/blob/master/CNN/Deep_Compression/readme.md
+a survey of deep compression
 
 ## Tools
 - https://pocketflow.github.io/
