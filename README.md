@@ -52,6 +52,10 @@ Example of loading a Keras model into TensorRT C++ API
 https://github.com/zhaozhixu/SqueezeDetTRT
 SqueezeDet implemented in CUDA&TensorRT 
 
+## ncnn
+- https://github.com/lyk125/caffe-int8-convert-tools
+Quantize caffe model to ncnn  base on TensorRT 2.0 Int8 calibration tools,which use the KL algorithm to find the suitable threshold to quantize the activions from Float32 to Int8(-128 - 127). 
+
 ## Codes
 - https://github.com/chengshengchan/model_compression
 Implementation of model compression with three knowledge distilling or teacher student methods. The basic architecture is teacher-student model.
