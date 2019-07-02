@@ -21,6 +21,10 @@ Model Compression CLI Tool for Keras.
 cnn compression for keras
 - https://github.com/walkerning/compression-tool
 A small compression tool for caffe model using svd and prune.
+- https://github.com/pipidog/keras_to_tensorflow
+A tutorial on converting your keras models to tensorflow .pb format for inference
+- https://github.com/onnx/keras-onnx
+Convert Keras models to ONNX
 
 ## TensorRT
 - https://github.com/LitLeo/TensorRT_Tutorial
@@ -53,8 +57,6 @@ Example of loading a Keras model into TensorRT C++ API
 SqueezeDet implemented in CUDA&TensorRT 
 - https://github.com/onnx/onnx-tensorrt
 ONNX-TensorRT: TensorRT backend for ONNX
-- https://github.com/onnx/keras-onnx
-Convert Keras models to ONNX
 
 
 ## ncnn
