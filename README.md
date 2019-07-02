@@ -49,8 +49,13 @@ MTCNN C++ implementation with NVIDIA TensorRT Inference accelerator SDK
 High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT
 - https://github.com/csvance/keras-tensorrt-jetson
 Example of loading a Keras model into TensorRT C++ API 
-https://github.com/zhaozhixu/SqueezeDetTRT
+- https://github.com/zhaozhixu/SqueezeDetTRT
 SqueezeDet implemented in CUDA&TensorRT 
+- https://github.com/onnx/onnx-tensorrt
+ONNX-TensorRT: TensorRT backend for ONNX
+- https://github.com/onnx/keras-onnx
+Convert Keras models to ONNX
+
 
 ## ncnn
 - https://github.com/lyk125/caffe-int8-convert-tools
