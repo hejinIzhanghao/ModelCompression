@@ -57,6 +57,10 @@ Example of loading a Keras model into TensorRT C++ API
 SqueezeDet implemented in CUDA&TensorRT 
 - https://github.com/onnx/onnx-tensorrt
 ONNX-TensorRT: TensorRT backend for ONNX
+- https://github.com/godmoves/TensorFlow_to_TensorRT
+convert a TensorFlow model to TensorRT uff or PLAN 
+- https://github.com/smistad/convert-tensorflow-model-to-tensorrt-uff
+convert a frozen tensorflow .pb file to TensorRT UFF format 
 
 
 ## ncnn
