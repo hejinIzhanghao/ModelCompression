@@ -61,6 +61,14 @@ ONNX-TensorRT: TensorRT backend for ONNX
 convert a TensorFlow model to TensorRT uff or PLAN 
 - https://github.com/smistad/convert-tensorflow-model-to-tensorrt-uff
 convert a frozen tensorflow .pb file to TensorRT UFF format 
+- https://github.com/aimuch/TensorrtCppCallUFF
+C++ 调用UFF文件进行推理 
+- https://github.com/giranntu/NVIDIA-TensorRT-Tutorial
+A tutorial for TensorRT overall pipeline optimization from ONNX, TensorFlow Frozen Graph, pth, UFF, or PyTorch TRT) framework. 
+- https://github.com/OUXT-Polaris
+fine-tune tensorflow model and export to .uff and .plan for TensorRT inference 
+- https://blog.csdn.net/abrams90/article/details/80410308
+TensorRT Workflows with caffe, onnx, tensorflow
 
 
 ## ncnn
