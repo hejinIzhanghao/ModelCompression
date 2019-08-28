@@ -27,6 +27,10 @@ A tutorial on converting your keras models to tensorflow .pb format for inferenc
 Convert Keras models to ONNX
 
 ## TensorRT
+- https://github.com/NVIDIA/TensorRT
+TensorRT is a C++ library for high performance inference on NVIDIA GPUs
+- https://github.com/NVIDIA-AI-IOT/tf_trt_models
+TensorFlow models accelerated with NVIDIA TensorRT 
 - https://github.com/LitLeo/TensorRT_Tutorial
 tensorrt tutorial
 - https://github.com/dusty-nv/jetson-inference
@@ -69,6 +73,9 @@ A tutorial for TensorRT overall pipeline optimization from ONNX, TensorFlow Froz
 fine-tune tensorflow model and export to .uff and .plan for TensorRT inference 
 - https://blog.csdn.net/abrams90/article/details/80410308
 TensorRT Workflows with caffe, onnx, tensorflow
+- https://github.com/liumusicforever/tf_to_trt_converter
+Convert model implementation from Tensorflow to TensorRT engine. 
+
 
 
 ## ncnn
